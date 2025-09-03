@@ -1,0 +1,5 @@
+{
+  "name": "Mermaid Diagram Generator",
+  "description": "An application that converts user-inputted work descriptions into Mermaid.js notation and displays them as diagrams like flowcharts, sequence diagrams, and Gantt charts.",
+  "requestFramePermissions": []
+}
